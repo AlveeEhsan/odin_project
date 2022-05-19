@@ -1,2 +1,2 @@
-# odin_recipe
-odin's_assignment_01
+# odin_project
+odin's_recipe_assignment
